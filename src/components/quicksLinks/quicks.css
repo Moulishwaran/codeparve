@@ -1,0 +1,25 @@
+.quick {
+    margin-left: 1250px;
+    margin-top: -350px;
+    color: white;
+
+}
+
+.quick h1 {
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.list-quick {
+    color: gray;
+    cursor: pointer;
+}
+
+.list-home:hover {
+    color: white;
+}
+
+.list-us:hover {
+    color: white;
+}

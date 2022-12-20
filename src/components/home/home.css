@@ -1,0 +1,126 @@
+.home-heading-right {
+    padding: 50px;
+}
+
+.home-heading-right h1 {
+    margin-left: 50px;
+    font-weight: 500;
+}
+
+
+.home-desc {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.home-desc p {
+    font-size: 17px;
+    letter-spacing: 2.5px;
+}
+
+
+.desc-about {
+    padding-left: 50px;
+    padding-top: 50px;
+    font-weight: 300;
+    font-size: 10px;
+
+}
+
+.desc-about .adopt {
+    width: 8%;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #FF6485;
+    border: none;
+    cursor: pointer;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.desc-about .what {
+    margin-left: 50px;
+    width: 18%;
+    height: 50px;
+    letter-spacing: 2px;
+    background-color: #EBF9FF;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.home-lottie-left {
+    width: 25%;
+    height: 30%;
+    margin-left: 1000px;
+    margin-top: -420px;
+
+}
+
+.whatwe {
+    margin-left: 750px;
+}
+
+.pets {
+    margin-left: 280px;
+    font-weight: 300;
+    color: #000101;
+    font-size: 25px;
+}
+
+
+.whatwe .text {
+    display: flex;
+    margin-left: -150px;
+    letter-spacing: 1px;
+    padding-top: 5px;
+}
+
+.whatwe .sample {
+    display: flex;
+    margin-left: -134px;
+    letter-spacing: 0.7px;
+    padding-top: 4px;
+}
+
+.whatwe .filler {
+    letter-spacing: 1px;
+    margin-left: 92px;
+    padding-top: -5px;
+}
+
+
+.give {
+    margin-top: 10px;
+    margin-left: 740px;
+    padding: 10px;
+    width: 120px;
+    height: 40px;
+    font-weight: 300;
+    font-size: 16px;
+    background-color: #EBF9FF;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+
+.right1 {}
+
+.player {
+    width: 30%;
+    margin-top: -80px;
+}
+
+
+.right1 .publish {
+    margin-left: 600px;
+    margin-top: -300px;
+    padding: 2px;
+    letter-spacing: 1.5px;
+    font-weight: 300;
+    line-height: 25px;
+}

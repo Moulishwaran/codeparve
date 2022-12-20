@@ -1,0 +1,106 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin-top: -20px;
+    margin-left: -500px;
+    margin-right: -400px;
+}
+
+.logo {
+    margin-top: 50px;
+    padding-right: 1000px;
+    padding-left: 80px;
+    font-size: medium;
+}
+
+.logo img {
+    width: 60px;
+    height: 20%;
+    background: none;
+    border-radius: 20px;
+    margin-left: -220px;
+}
+
+
+
+.heading h3 {
+    margin-left: -1150px;
+    margin-top: 70px;
+    font-weight: 550;
+    color: #000101;
+    font-size: 25px;
+}
+
+
+.nav-heading {
+    display: flex;
+    justify-content: space-between;
+    margin-left: -650px;
+    cursor: pointer;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.nav-heading .home {
+    text-decoration: underline;
+    letter-spacing: 1px;
+    text-decoration-color: #000101;
+}
+
+.nav-heading .contact {
+    color: gray;
+    font-weight: 200;
+    margin-top: 50px;
+
+
+}
+
+.nav-heading h4 {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 350px;
+
+
+}
+
+.icon .icons {
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 34px;
+    color: #4E4E4E;
+    cursor: pointer;
+}
+
+.icons:hover {
+    color: black;
+    width: 20px;
+    height: 20px;
+
+}
+
+
+/* Media Query
+
+@media Screen and (min-width: 464px) {
+    .navbar {}
+
+    .logo {}
+
+    .logo img {
+        margin-left: 700px;
+        width: 30px;
+    }
+
+    .heading h3 {
+        font-size: 15px;
+        margin-right: -100px;
+    }
+} */

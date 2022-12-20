@@ -1,0 +1,57 @@
+.getIn {
+    margin-left: 700px;
+    margin-top: -280px;
+}
+
+
+.getIn h2 {
+    margin-top: -80px;
+    color: white;
+    letter-spacing: 1.2px;
+    font-weight: 300;
+}
+
+.top-icon {
+    color: white;
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.dest {
+    color: gray;
+    margin-left: 40px;
+    margin-top: -40px;
+}
+
+.gr-mail {
+    color: white;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+.get-mail {
+    color: gray;
+    margin-left: 44px;
+    margin-top: -27px;
+}
+
+.bottom-icon {
+    color: white;
+    margin-left: 4px;
+    margin-top: 35px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 200
+}
+
+.twit-icon {
+    color: gray;
+    padding: 15px;
+    font-size: 30px;
+    margin-left: -10px;
+    cursor: pointer;
+}
+
+.twit-icon:hover {
+    color: white;
+}

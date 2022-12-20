@@ -1,0 +1,63 @@
+.fotter {
+    background-color: #131313;
+    margin-top: 130px;
+    height: 700px;
+}
+
+
+.down-right {
+    margin-left: 74px;
+    margin-top: 350px;
+    color: gray;
+    font-size: 10px;
+
+}
+
+.down-right h3 {
+    font-weight: 100;
+}
+
+
+.down-left {
+    display: flex;
+    align-items: center;
+    padding-left: 1050px;
+    color: gray;
+    margin-top: -50px;
+    font-weight: 100;
+
+}
+
+.down-left .privacy {
+    font-size: 12px;
+    color: white;
+
+    text-decoration: underline;
+    text-decoration-color: rgb(110, 104, 104);
+
+}
+
+.down-left .terms {
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: rgb(110, 104, 104);
+
+}
+
+.down-left .coolkie {
+    font-size: 12px;
+    margin-left: 10px;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: rgb(110, 104, 104);
+}
+
+.underline {
+    border-bottom: 2px solid gray;
+    margin-top: -80px;
+    width: 85%;
+    margin-left: 70px;
+}

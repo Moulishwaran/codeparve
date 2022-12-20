@@ -1,0 +1,51 @@
+.animal {}
+
+.animal-logo img {
+    width: 50px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.animal-logo h4 {
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-left: 150px;
+    margin-top: -38px;
+}
+
+.animal p {
+    color: gray;
+    margin-left: 80px;
+    margin-top: 50px;
+    line-height: 26px;
+}
+
+
+
+
+.animal .button {
+    margin-top: 65px;
+    margin-left: 80px;
+    padding-right: 22px;
+    width: 120px;
+    height: 50px;
+    background-color: #FF6485;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.animal .arrow-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -33px;
+    margin-left: 170px;
+    font-size: 18px;
+    color: white;
+}
